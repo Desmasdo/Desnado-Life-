@@ -3,25 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-  <title>AffiliateControl</title>
-  <link rel="icon" href="/assets/favicon.png">
-  <link rel="stylesheet" href="/css/typography.css">
-  <link rel="stylesheet" href="/css/fontawesome.css">
-  <link rel="preload" href="/css/app.8cd9876c.css" as="style">
-  <link rel="preload" href="/css/chunk-vendors.8160e40e.css" as="style">
-  <style>
-    /* Vos styles CSS ici */
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Titre de votre site</title>
+  <link rel="icon" href="/chemin/vers/votre/favicon.png">
+  <link rel="stylesheet" href="/chemin/vers/votre/fichier.css">
 </head>
 <body>
-  <div class="pre-loading loading">
-    <img class="spin-logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTg1IiBoZWlnaHQ9IjM0Ij4KPHJlY3QgaWQ9Im1vYmlsZSIgd2lkdGg9IjE4NSIgaGVpZ2h0PSIzNCIgZmlsbD0ibm9uZSIgc3R5bGU9Im1hcmdpbi10b3A6NHB4OyIvPgo8cGF0aCBpZD0ibG9nb28iIHN0eWxlPSJtYXJnaW4tdG9wOjFweDsiLz4KPHBhdGggaWQ9Im1vYmlsZSIgc3R5bGU9ImZpbGw6dHJhbnNwYXJlbnQ7IiBkPSJNMTkuMjUzLDE2LjI4IEMyMC4wNjMwMDQsMTYuNjQwMDAxOCAyMC42ODg0OTc4LDE3LjEzMDQ5NjkgMjEuMTI5NSwxNy43NTE1IEMyMS41NzA1MDIyLDE4LjM3MjUwMzEgMjEuNzkxLDE5LjExNDk5NTcgMjEuNzkxLDE5Ljk3OSBD...
-    <!-- Vous pouvez ajouter d'autres éléments ici -->
-  </div>
+  <header>
+    <!-- Votre en-tête ici -->
+  </header>
 
-  <!-- Vos scripts JS ici -->
-  <script src="/js/app.076a6eb4.js" defer></script>
-  <script src="/js/chunk-vendors.18b22d9c.js" defer></script>
+  <nav>
+    <!-- Votre menu de navigation ici -->
+  </nav>
+
+  <main>
+    <!-- Contenu principal de votre site ici -->
+  </main>
+
+  <footer>
+    <!-- Votre pied de page ici -->
+  </footer>
+
+  <!-- Vos scripts JavaScript ici -->
+  <script src="/chemin/vers/votre/script.js"></script>
 </body>
 </html>
